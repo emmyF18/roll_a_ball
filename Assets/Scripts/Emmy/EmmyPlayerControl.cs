@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PlayerControl : MonoBehaviour
+public class EmmyPlayerControl : MonoBehaviour
 {
     public Text countText;
     public Text winText;

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Rotater : MonoBehaviour
+public class EmmyRotater : MonoBehaviour
 {
     // Update is called once per frame
     void Update()

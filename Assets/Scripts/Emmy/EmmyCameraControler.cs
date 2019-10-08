@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CameraControler : MonoBehaviour
+public class EmmyCameraControler : MonoBehaviour
 {
     public GameObject player;
     private Vector3 offset;
